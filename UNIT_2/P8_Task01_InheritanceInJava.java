@@ -1,4 +1,4 @@
-package UNIT_1.UNIT_2;
+package UNIT_2;
 
 /*
  * -extends keyword
