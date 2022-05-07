@@ -9,7 +9,7 @@ public class Q01 {
 
     public static void main(String[] args) {
         System.out.println("Question 01");
-        System.out.println("Ajay Goswami  _F_  20011502");
+        System.out.println("Vaibhav  _F_  20011730");
         Student obj = new Student("Rahul", 14, 'A', 88);
         Student obj1 = new Student("Sumit", 14, 'A', 78);
         Student obj2 = new Student("YAsh", 12, 'A', 98);
