@@ -2,6 +2,7 @@ package P14;
 import java.util.Scanner;
 public class Exception1 {
 	public static void main(String arg[]){
+		
 		exception o =new exception();
 		 o.Basicexception();
 		 o.outofbound();
